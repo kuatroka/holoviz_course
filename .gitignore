@@ -10,6 +10,7 @@ __pycache__/
 *.csv
 *.parq
 *.parquet
+data/
 
 # Distribution / packaging
 .Python
