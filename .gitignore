@@ -4,7 +4,10 @@ __pycache__/
 *$py.class
 
 # C extensions
-*.so
+*.
+
+# data
+*.csv
 
 # Distribution / packaging
 .Python
